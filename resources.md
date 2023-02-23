@@ -9,3 +9,4 @@ Individual Articles and Highlights
 
 Education and Training
 - [Training Available Through CISA](https://www.cisa.gov/uscert/ics/Training-Available-Through-CISA)
+- [Industrial Control Systems Joint Working Group (ICSJWG) Meetings and Webinars](https://www.cisa.gov/uscert/ics/icsjwg-meetings-and-webinars)
