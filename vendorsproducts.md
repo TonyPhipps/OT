@@ -1,0 +1,6 @@
+- PTC
+  - ThingWorx Edge
+- Moxa
+  - UC Series
+- Becton, Dickinson and Company (BD)
+  - Alaris Infusion Central
