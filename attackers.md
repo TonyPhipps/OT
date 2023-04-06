@@ -1,0 +1,8 @@
+Groups with a history of targeting OT/ICS/SCADA
+
+HEXANE
+PARISITE
+WASSONITE
+MAGNALLIUM
+XENOTIME
+LockerGoga
