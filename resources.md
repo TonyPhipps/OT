@@ -2,6 +2,10 @@ Detections
 - https://attack.mitre.org/matrices/ics/
 
 
+Vulnerabilities
+- https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
+
 Feeds, Blogs, etc.
 - [Dragos](https://www.dragos.com/blog/) ([RSS](https://www.dragos.com/rss))
 - [ICS-CERT Feeds](https://www.cisa.gov/uscert/ics/ICS-CERT-Feeds)
