@@ -6,7 +6,7 @@ Events where entities were the intentional target of attack groups and/or tools.
 
 
 # Coincidental / Tangential Events that Impacted OT/ICS/SCADA
-Typically offline-capable ransomware or destructive malware that didn't necessarily target the affected systems, but neverless impacted them.
+Typically offline-capable ransomware, or destructive malware that didn't necessarily target the affected systems, but neverless impacted them.
 
 ## 2019
 - Emotet affected Coast Guard  [[1]](https://blog.talosintelligence.com/emotet-is-back-after-summer-break/)
