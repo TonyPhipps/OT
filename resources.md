@@ -1,3 +1,6 @@
+General
+- https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
+
 Detections
 - https://attack.mitre.org/matrices/ics/
 
