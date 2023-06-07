@@ -11,3 +11,4 @@ Groups, services, malware, etc. that have targeted or impacted ICS.
 - Deploy a ransom note HOW_TO_DECRYPT.txt into each affected directory which states the \*.key file cannot be modified, renamed, or deleted, otherwise the encrypted files cannot be recovered. [T1486]
 - Exfiltrates data likely using a combination of Rclone and the cloud storage service Mega.nz [T1537].
 - Files created in root (C:\ or /root/)
+- Sources: https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a
