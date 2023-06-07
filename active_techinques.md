@@ -1,3 +1,5 @@
+Groups, services, malware, etc. that have targeted or impacted ICS.
+
 ## Hive RaaS
 - Gain access to victim networks by using single factor logins via RDP, VPN, and other remote network connection protocols [T1133].
 - Gain access to victim network by exploiting the following Microsoft Exchange vulnerabilities [T1190].
